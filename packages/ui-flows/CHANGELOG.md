@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/forforeach/lerna-poc/compare/@general/ui-flows@1.1.0...@general/ui-flows@1.2.0) (2019-05-25)
+
+
+### Features
+
+* **ui-flows:** add cool footer ([ca47a4d](https://github.com/forforeach/lerna-poc/commit/ca47a4d))
+
+
+
+
+
 # 1.1.0 (2019-05-25)
 
 
