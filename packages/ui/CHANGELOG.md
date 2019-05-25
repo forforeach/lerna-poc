@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.3-beta.2](https://github.com/forforeach/lerna-poc/compare/@general/ui@1.6.3-beta.1...@general/ui@1.6.3-beta.2) (2019-05-25)
+
+
+### Bug Fixes
+
+* **ui:** changes ([ac8fcb8](https://github.com/forforeach/lerna-poc/commit/ac8fcb8))
+
+
+
+
+
 ## [1.6.3-beta.1](https://github.com/forforeach/lerna-poc/compare/@general/ui@1.6.3-beta.0...@general/ui@1.6.3-beta.1) (2019-05-25)
 
 
