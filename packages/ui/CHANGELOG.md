@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/forforeach/lerna-poc/compare/@general/ui@1.5.0...@general/ui@1.6.0) (2019-05-25)
+
+
+### Features
+
+* **ui:** some changes ([fc7971d](https://github.com/forforeach/lerna-poc/commit/fc7971d))
+
+
+
+
+
 # [1.5.0](https://github.com/forforeach/lerna-poc/compare/@general/ui@1.4.1...@general/ui@1.5.0) (2019-05-25)
 
 
