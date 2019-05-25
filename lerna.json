@@ -5,7 +5,7 @@
   "version": "independent",
   "command": {
     "version": {
-      "message": "chore(release): [skip-ci] publish %s"
+      "message": "chore(release): [skip-ci] publish new versions"
     }
   }
 }
