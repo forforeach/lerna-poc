@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.7.1](https://github.com/forforeach/lerna-poc/compare/@general/ui@1.7.0...@general/ui@1.7.1) (2019-05-25)
+
+
+### Bug Fixes
+
+* add prepublish scripts ([33d28c1](https://github.com/forforeach/lerna-poc/commit/33d28c1))
+
+
+
+
+
 # [1.7.0](https://github.com/forforeach/lerna-poc/compare/@general/ui@1.6.3...@general/ui@1.7.0) (2019-05-25)
 
 
