@@ -5,6 +5,7 @@
     <p>Testing publishing of only one package</p>
     <p>More changes</p>
     <p>More changes</p>
+    <p>More changes</p>
   </div>
 </template>
 
