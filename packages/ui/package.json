@@ -1,6 +1,6 @@
 {
   "name": "@general/ui",
-  "version": "1.6.3",
+  "version": "1.7.0",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
