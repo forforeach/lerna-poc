@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.1](https://github.com/forforeach/lerna-poc/compare/@general/ui-flows@1.2.0...@general/ui-flows@1.2.1) (2019-05-25)
+
+
+### Bug Fixes
+
+* **ui-flows:** add bla bla ([fe28fea](https://github.com/forforeach/lerna-poc/commit/fe28fea))
+
+
+
+
+
 # [1.2.0](https://github.com/forforeach/lerna-poc/compare/@general/ui-flows@1.1.0...@general/ui-flows@1.2.0) (2019-05-25)
 
 
