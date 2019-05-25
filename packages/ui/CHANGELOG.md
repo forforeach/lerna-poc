@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.1](https://github.com/forforeach/lerna-poc/compare/@general/ui@1.3.0...@general/ui@1.3.1) (2019-05-25)
+
+
+### Bug Fixes
+
+* **ui:** additional changes ([d919adb](https://github.com/forforeach/lerna-poc/commit/d919adb))
+
+
+
+
+
 # 1.3.0 (2019-05-25)
 
 
