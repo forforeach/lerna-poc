@@ -3,7 +3,6 @@
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
     <footer>Add my cool footer</footer>
-    <div>Changes</div>
   </div>
 </template>
 
