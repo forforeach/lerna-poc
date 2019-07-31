@@ -27,9 +27,6 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **ui-flows:** changea ([1b1e830](https://github.com/forforeach/lerna-poc/commit/1b1e830))
 
 
-
-
-
 # [1.4.0-beta.0](https://github.com/forforeach/lerna-poc/compare/@general/ui-flows@1.4.0-alpha.2...@general/ui-flows@1.4.0-beta.0) (2019-07-31)
 
 
