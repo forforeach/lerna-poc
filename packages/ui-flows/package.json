@@ -1,6 +1,6 @@
 {
   "name": "@general/ui-flows",
-  "version": "1.4.0-beta.1",
+  "version": "1.4.0",
   "scripts": {
     "prepublishOnly": "npm run lint && npm test && npm run build",
     "serve": "vue-cli-service serve",
